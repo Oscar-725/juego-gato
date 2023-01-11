@@ -24,13 +24,14 @@
           android:layout_weight="1"
           android:orientation="horizontal">
 
+
          <Button
              android:id="@+id/button_1"
              android:layout_width="0dp"
              android:layout_height="match_parent"
              android:layout_marginEnd="@dimen/margin_commont"
              android:layout_weight="1"
-             android:text=""
+             android:text=" "
              android:textSize="@dimen/symbol_size"/>
 
          <Button
