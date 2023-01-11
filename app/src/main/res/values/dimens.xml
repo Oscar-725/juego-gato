@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="box_size">120dp</dimen>
+    <dimen name="margin_commont">8dp</dimen>
+    <dimen name="symbol_size">64sp</dimen>
+    <dimen name="margin_button_restarting">32dp</dimen>
+</resources>

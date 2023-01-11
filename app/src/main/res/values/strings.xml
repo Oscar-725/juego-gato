@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Juego El Gato</string>
     <string name="text_victory">Haz ganado</string>
+    <string name="button_restarting">REINICIAR</string>
 </resources>
